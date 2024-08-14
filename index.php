@@ -2,4 +2,4 @@
 
 echo "Hello World!";
 echo "<br>";
-echo "Nouvelle branche";
+echo "Nouvelle branche passée en master directement";
